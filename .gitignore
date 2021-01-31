@@ -131,3 +131,5 @@ dmypy.json
 # files that are too large
 ratings.csv
 
+# config password
+config.py
